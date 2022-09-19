@@ -3,6 +3,9 @@
 ![image](cooltext419577467191136.png)
 #### LCD 20x4
 La pantalla LCD 20x4 (conocido también como display LCD 20x4) es un dispositivo que permite la presentación de caracteres alfanuméricos y otros simbolos en un formato de 20 caracteres por línea, en 4 líneas
+
+
+<a href="http://cooltext.com" target="_top"><img src="maxresdefault.jpg" width="900" height="400" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 #### Caracteristicas
 
 - Modelo: 2004A
@@ -21,4 +24,4 @@ La pantalla LCD 20x4 (conocido también como display LCD 20x4) es un dispositivo
 - Voltaje de funcionamiento: 5V
 - Consumo de corriente del LCD: aproximadamente 2 mA
 - Consumo de la luz de fondo (retroiluminacion): 40 mA
-![image](cooltext419577597053546.png)
+
