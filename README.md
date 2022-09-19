@@ -1,6 +1,7 @@
 ![image](cooltext419577597053546.png)
 
 ![image](cooltext419577467191136.png)
+#### Hecho por: Jairo Jaziel Perez Rojas
 #### LCD 20x4
 La pantalla LCD 20x4 (conocido también como display LCD 20x4) es un dispositivo que permite la presentación de caracteres alfanuméricos y otros simbolos en un formato de 20 caracteres por línea, en 4 líneas
 
@@ -8,20 +9,29 @@ La pantalla LCD 20x4 (conocido también como display LCD 20x4) es un dispositivo
 <a href="http://cooltext.com" target="_top"><img src="maxresdefault.jpg" width="900" height="400" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 #### Caracteristicas
 
-- Modelo: 2004A
-- Formato de presentación: 20 caracteres X 4 líneas
-- Interfaz de entrada: 4-Bits / 8-Bits
-- Retroiluminacion: LED blanco
-- Controlador: SPLC780D (compatible con Hitachi HD44780)
-- Modo de presentación: Fondo azul / Caracteres blancos
-- Caracteres: 5X8 puntos
-- Tamaño de cada punto: 0.55X0.55 mm
-- Separación entre puntos: 0.60X0.60 mm
-- Medidas del módulo: 98.0(ancho) × 60.0(alto) × 12(espesor) mm
-- Medidas del display (Area de presentación): 76.0(ancho) × 27.0(alto) mm
-- Temperatura de funcionamiento: -10 a +60 grados Celsius
-- Temperatura de almacenamiento: -20 a +70 grados Celsius
-- Voltaje de funcionamiento: 5V
-- Consumo de corriente del LCD: aproximadamente 2 mA
-- Consumo de la luz de fondo (retroiluminacion): 40 mA
+
+| **Sensor LCD**                 | **Caracteristicas**          |
+|----------------------------|---------------------------|
+| Modelo                     | 20X04                    |
+| Formato                    | 20 Caracte.x 4 Lineas     |
+| Interfaz                   | 4 Bits/8Bits              |
+| caracteres                 | 5x8 puntos                |
+| Controlador                | SPLC780                   |
+| Temperatura fundicion      | 5-10 a +60 grados Celsius |
+| Temperatura almacenamiento | -20 a +70 grados Celsius  |
+| Voltaje de funcionamiento  | 5V                        |
+| Consumo de luz fondo       | 40 mA                     |
+#### LCD 20x4 con 12C
+Display LCD de 4 líneas de 20 caracteres con comunicaciones I2C y serie y retro iluminación controlable por software. Gracias a su iluminación posterior, los mensajes se ven claramente incluso en total oscuridad.
+
+<a href="http://cooltext.com" target="_top"><img src="lcd-20x4sdf.jpg" width="900" height="300" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+#### Caracteristicas
+- Pantalla – 20 caracteres por línea, 4 líneas
+- Alimentación – 5v
+- Consumo – 125mA con retroiluminación de pantalla encendida
+- Comunicaciones – I2C o serie 9600bps
+- Teclado – Escaneo automático de teclado matricial 3×4
+- Caracteres personalizados – hasta 8 caracteres personalizados fácilmente definidos
+- Retroiluminación de pantalla apagada por defecto, puede ser encendida por software.
+= Disponible en dos colores de pantalla: Texto negro sobre fondo verde (clásico) y texto blanco sobre fondo azul
 
