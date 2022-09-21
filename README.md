@@ -3,7 +3,7 @@
 ![image](cooltext419577467191136.png)
 #### Hecho por: Jairo Jaziel Perez Rojas
 #### LCD 20x4
-La pantalla LCD 20x4 (conocido también como display LCD 20x4) es un dispositivo que permite la presentación de caracteres alfanuméricos y otros simbolos en un formato de 20 caracteres por línea, en 4 líneas
+La pantalla LCD 20x4 (conocido también como display LCD 2004) es un dispositivo que permite la presentación de caracteres alfanuméricos y otros simbolos en un formato de 20 caracteres por línea, en 4 líneas
 
 Usos
 
